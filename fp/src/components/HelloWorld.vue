@@ -12,7 +12,7 @@
   <button @click="difference(operand1, operand2)">-</button>
   <button @click="divide(operand1, operand2)">/</button>
   <button @click="multiply(operand1, operand2)">*</button>
-  <button @click="intDivide(operand1, operand2)">intDivide</button>
+  <button @click="intDivide(operand1, operand2)">Целочисленное деление</button>
   <button @click="exponentiation(operand1, operand2)">x^y</button>
   </div>
 </template>
